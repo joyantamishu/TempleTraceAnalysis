@@ -9,4 +9,4 @@ Once you have your hand on the traces, do the following:
 
 2) After **chunk_statistics.py** finished, run **plot_chunk_statistics.py** to generate the plot, which mainly shows the characteristics of the popularity of data chunks. Make sure, value of **stat_file_name** variable of this file is same as the **stat_file_name** of the **chunk_statistics.py** file.
 
-We generate the plots on a day basis. For example to generate the statitics for the 13th March storages accesses, we copy contents of all the three folders (2019_03_13_p1,2019_03_13_p2,2019_03_13_p3) presenting different application storage access on March 13,2019, put altogether in a folder and point it by **directory_name** variable.
+We generate the plots on a day basis. For example to generate the statitics for the 13th March storages accesses, we copy contents of all the three folders (2019_03_13_p1, 2019_03_13_p2, 2019_03_13_p3) presenting different application storage access on March 13,2019, put altogether in a folder and point it by **directory_name** variable.
