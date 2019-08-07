@@ -3,7 +3,7 @@ Used this python script to generate the statistics from the Temple University Tr
 
 You can get the direct access link of temple traces from the paper mentioned above. Due to copyright issue I can't upload it here.
 
-Once you get the traces, do the following:
+Once you have your hand on the traces, do the following:
 
 1) Run the **chunk_statistics.py** file. Before running, make sure you have changed the **stat_file_name, directory_name** variables. It's up to you whether you change the value of **CHUNK_SIZE**
 
